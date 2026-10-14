@@ -1,0 +1,2 @@
+# segurnue
+asegurar
